@@ -4,3 +4,4 @@ Gitの練習をしていきます
 ・git status
 こっちも変更したよ
 ・git status
+・git diff

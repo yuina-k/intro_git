@@ -2,3 +2,5 @@ Gitの練習をしていきます
 基本的なワークフローを学びます
 ・git add
 ・git status
+こっちも変更したよ
+・git status
